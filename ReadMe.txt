@@ -1,4 +1,4 @@
-This is a test task for the position of software developer at Honewell Australia
+This is a test task for the position of software developer.
 
 VideosWebAPI - API to manage mp4 files (upload, browse, stream)
 VideosWebUI - UI for the above API mp4 files (upload, list, play)
