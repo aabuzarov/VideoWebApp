@@ -13,18 +13,17 @@
 <table class="table">
     <thead>
         <tr>
-            <th>Id</th>
             <th>Filename</th>
+            <th>Actions</th>
         </tr>
     </thead>
     <tbody>
         @foreach (var Video in Model)
         {
             <tr>
-                <td>@Video.Id</td>
                 <td>@Video.FileName</td>
                 <td>
-                    <a asp-action="Details" asp-route-id="@Video.Id">Details</a>
+                    <a asp-action="Play" asp-route-fileName="@Video.FileName">Play</a>
                 </td>
             </tr>
         }

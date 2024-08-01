@@ -30,3 +30,4 @@ C:\Users\abuza\source\repos\VideosWebApp\VideosWebAPI\VideosWebAPI\obj\Debug\net
 C:\Users\abuza\source\repos\VideosWebApp\VideosWebAPI\VideosWebAPI\obj\Debug\net6.0\VideosWebAPI.pdb
 C:\Users\abuza\source\repos\VideosWebApp\VideosWebAPI\VideosWebAPI\obj\Debug\net6.0\VideosWebAPI.genruntimeconfig.cache
 C:\Users\abuza\source\repos\VideosWebApp\VideosWebAPI\VideosWebAPI\obj\Debug\net6.0\ref\VideosWebAPI.dll
+C:\Users\abuza\source\repos\VideosWebApp\VideosWebAPI\VideosWebAPI\obj\Debug\net6.0\VideosWebAPI.sourcelink.json

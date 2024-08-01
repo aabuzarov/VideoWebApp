@@ -28,3 +28,4 @@ C:\Users\abuza\source\repos\VideosWebApp\VideosWebUI\VideosWebUI\obj\Debug\net6.
 C:\Users\abuza\source\repos\VideosWebApp\VideosWebUI\VideosWebUI\obj\Debug\net6.0\VideosWebUI.pdb
 C:\Users\abuza\source\repos\VideosWebApp\VideosWebUI\VideosWebUI\obj\Debug\net6.0\VideosWebUI.genruntimeconfig.cache
 C:\Users\abuza\source\repos\VideosWebApp\VideosWebUI\VideosWebUI\obj\Debug\net6.0\ref\VideosWebUI.dll
+C:\Users\abuza\source\repos\VideosWebApp\VideosWebUI\VideosWebUI\obj\Debug\net6.0\VideosWebUI.sourcelink.json

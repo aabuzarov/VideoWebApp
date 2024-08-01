@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VideosWebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5534e139a804a909fec3f61174cf3c480774cfb")]
 [assembly: System.Reflection.AssemblyProductAttribute("VideosWebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VideosWebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
