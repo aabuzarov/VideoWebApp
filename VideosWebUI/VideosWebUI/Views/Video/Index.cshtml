@@ -1,0 +1,32 @@
+﻿@model IEnumerable<VideosWebUI.Models.Video>
+
+@{
+    ViewData["Title"] = "Videos";
+}
+
+<h1>Videos</h1>
+
+<p>
+    <a asp-action="Upload">Upload New Video</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Filename</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Video in Model)
+        {
+            <tr>
+                <td>@Video.Id</td>
+                <td>@Video.FileName</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@Video.Id">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
