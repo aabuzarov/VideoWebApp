@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\abuza\\source\\repos\\VideosWebApp\\VideosWebUI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|c:\\users\\abuza\\source\\repos\\videoswebapp\\videoswebui\\videoswebui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|solutionrelative:videoswebui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|c:\\users\\abuza\\source\\repos\\videoswebapp\\videoswebui\\videoswebui\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|solutionrelative:videoswebui\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +15,16 @@
       "RelativeMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|solutionrelative:videoswebui\\services\\videoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|c:\\users\\abuza\\source\\repos\\videoswebapp\\videoswebui\\videoswebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|solutionrelative:videoswebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|c:\\users\\abuza\\source\\repos\\videoswebapp\\videoswebui\\videoswebui\\views\\video\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|solutionrelative:videoswebui\\views\\video\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|c:\\users\\abuza\\source\\repos\\videoswebapp\\videoswebui\\videoswebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|solutionrelative:videoswebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|c:\\users\\abuza\\source\\repos\\videoswebapp\\videoswebui\\videoswebui\\views\\video\\play.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|solutionrelative:videoswebui\\views\\video\\play.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|c:\\users\\abuza\\source\\repos\\videoswebapp\\videoswebui\\videoswebui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|solutionrelative:videoswebui\\views\\video\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|c:\\users\\abuza\\source\\repos\\videoswebapp\\videoswebui\\videoswebui\\views\\video\\play.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|solutionrelative:videoswebui\\views\\video\\play.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|c:\\users\\abuza\\source\\repos\\videoswebapp\\videoswebui\\videoswebui\\views\\video\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|solutionrelative:videoswebui\\views\\video\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|c:\\users\\abuza\\source\\repos\\videoswebapp\\videoswebui\\videoswebui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|solutionrelative:videoswebui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ADDC938-9D2B-45C8-85CD-E50FAD6BC664}|VideosWebUI\\VideosWebUI.csproj|c:\\users\\abuza\\source\\repos\\videoswebapp\\videoswebui\\videoswebui\\models\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Play.cshtml",
               "DocumentMoniker": "C:\\Users\\abuza\\source\\repos\\VideosWebApp\\VideosWebUI\\VideosWebUI\\Views\\Video\\Play.cshtml",
               "RelativeDocumentMoniker": "VideosWebUI\\Views\\Video\\Play.cshtml",
@@ -67,21 +67,19 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-01T11:38:05.862Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\abuza\\source\\repos\\VideosWebApp\\VideosWebUI\\VideosWebUI\\Views\\Video\\Details.cshtml",
               "RelativeDocumentMoniker": "VideosWebUI\\Views\\Video\\Details.cshtml",
               "ToolTip": "C:\\Users\\abuza\\source\\repos\\VideosWebApp\\VideosWebUI\\VideosWebUI\\Views\\Video\\Details.cshtml",
               "RelativeToolTip": "VideosWebUI\\Views\\Video\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-01T09:58:02.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T09:58:02.824Z"
             },
             {
               "$type": "Document",
@@ -91,27 +89,26 @@
               "RelativeDocumentMoniker": "VideosWebUI\\Program.cs",
               "ToolTip": "C:\\Users\\abuza\\source\\repos\\VideosWebApp\\VideosWebUI\\VideosWebUI\\Program.cs",
               "RelativeToolTip": "VideosWebUI\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T09:57:27.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T09:57:27.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\abuza\\source\\repos\\VideosWebApp\\VideosWebUI\\VideosWebUI\\appsettings.json",
               "RelativeDocumentMoniker": "VideosWebUI\\appsettings.json",
               "ToolTip": "C:\\Users\\abuza\\source\\repos\\VideosWebApp\\VideosWebUI\\VideosWebUI\\appsettings.json",
               "RelativeToolTip": "VideosWebUI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-01T16:55:18.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "VideoService.cs",
               "DocumentMoniker": "C:\\Users\\abuza\\source\\repos\\VideosWebApp\\VideosWebUI\\VideosWebUI\\Services\\VideoService.cs",
               "RelativeDocumentMoniker": "VideosWebUI\\Services\\VideoService.cs",
@@ -119,25 +116,23 @@
               "RelativeToolTip": "VideosWebUI\\Services\\VideoService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAWwAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T09:14:25.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T09:14:25.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "VideoController.cs",
               "DocumentMoniker": "C:\\Users\\abuza\\source\\repos\\VideosWebApp\\VideosWebUI\\VideosWebUI\\Controllers\\VideoController.cs",
               "RelativeDocumentMoniker": "VideosWebUI\\Controllers\\VideoController.cs",
               "ToolTip": "C:\\Users\\abuza\\source\\repos\\VideosWebApp\\VideosWebUI\\VideosWebUI\\Controllers\\VideoController.cs",
               "RelativeToolTip": "VideosWebUI\\Controllers\\VideoController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAWwAwAAAAIAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T09:41:36.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T09:41:36.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\abuza\\source\\repos\\VideosWebApp\\VideosWebUI\\VideosWebUI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "VideosWebUI\\Views\\Shared\\_Layout.cshtml",
@@ -145,12 +140,11 @@
               "RelativeToolTip": "VideosWebUI\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAACoAAAAAAAAAAAAAABwAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-01T09:56:48.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T09:56:48.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Upload.cshtml",
               "DocumentMoniker": "C:\\Users\\abuza\\source\\repos\\VideosWebApp\\VideosWebUI\\VideosWebUI\\Views\\Video\\Upload.cshtml",
               "RelativeDocumentMoniker": "VideosWebUI\\Views\\Video\\Upload.cshtml",
@@ -158,12 +152,11 @@
               "RelativeToolTip": "VideosWebUI\\Views\\Video\\Upload.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-01T09:55:54.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T09:55:54.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\abuza\\source\\repos\\VideosWebApp\\VideosWebUI\\VideosWebUI\\Views\\Video\\Index.cshtml",
               "RelativeDocumentMoniker": "VideosWebUI\\Views\\Video\\Index.cshtml",
@@ -171,8 +164,7 @@
               "RelativeToolTip": "VideosWebUI\\Views\\Video\\Index.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-01T09:54:48.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T09:54:48.34Z"
             },
             {
               "$type": "Document",
@@ -184,8 +176,7 @@
               "RelativeToolTip": "VideosWebUI\\Models\\Video.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T09:13:04.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T09:13:04.031Z"
             },
             {
               "$type": "Document",
@@ -197,8 +188,7 @@
               "RelativeToolTip": "VideosWebUI\\Services\\IVideoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T09:16:06.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T09:16:06.021Z"
             }
           ]
         }

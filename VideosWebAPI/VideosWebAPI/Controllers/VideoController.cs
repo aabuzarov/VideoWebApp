@@ -29,7 +29,6 @@ namespace VideosWebAPI.Controllers
         }
 
         [HttpGet("{fileName}")]
-        //public async Task<IActionResult> GetVideo(string fileName)
         public IActionResult GetVideo(string fileName) //original working
         {
             var filePath = Path.Combine(_mediaFolder, fileName);
@@ -38,23 +37,8 @@ namespace VideosWebAPI.Controllers
                 return NotFound();
             }
 
-            //original(non - async) - working
             var stream = new FileStream(filePath, FileMode.Open, FileAccess.Read);
             return new FileStreamResult(stream, "video/mp4");
-
-            //variant 3
-            //var filestream = System.IO.File.OpenRead(filePath);
-            //return Results.File(filestream, contentType: "video/mp4", fileDownloadName: filePath, enableRangeProcessing: true);
-
-
-            //variant 2(async)
-            //var memory = new MemoryStream();
-            //using (var stream = new FileStream(filePath, FileMode.Open, FileAccess.Read, FileShare.Read, 4096, useAsync: true))
-            //{
-            //    await stream.CopyToAsync(memory);
-            //}
-            //memory.Position = 0;
-            //return File(memory, "video/mp4", fileName);
         }
 
         [HttpPost]
